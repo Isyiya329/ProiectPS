@@ -1,9 +1,1 @@
-App.config
-App.xaml
-App.xaml.cs
-MainWindow.xaml
-MainWindow.xaml.cs
-Properties/
-Simulator.csproj
-bin/
-obj/
+
